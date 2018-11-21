@@ -1,0 +1,56 @@
+/*
+ * This software inherits from STMicroelectronic and SEGGER Microcontroller.
+ * The license texts are in the accompanying license.txt file
+ */
+
+***** SEGGER Microcontroller ******************************************
+
+ ** emWin V5.32 - Graphical user interface for embedded applications **
+All  Intellectual Property rights  in the Software belongs to  SEGGER.
+emWin is protected by  international copyright laws.  Knowledge of the
+source code may not be used to write a similar product.  This file may
+only be used in accordance with the following terms:
+
+The  software has  been licensed  to STMicroelectronics International
+N.V. a Dutch company with a Swiss branch and its headquarters in Plan-
+les-Ouates, Geneva, 39 Chemin du Champ des Filles, Switzerland for the
+purposes of creating libraries for ARM Cortex-M-based 32-bit microcon_
+troller products commercialized by Licensee only, sublicensed and dis_
+tributed under the terms and conditions of the End User License Agree_
+ment supplied by STMicroelectronics International N.V.
+Full source code is available at: www.segger.com
+We appreciate your understanding and fairness.
+
+
+***** STMicroelectronic **********************************************
+
+Licensed under MCD-ST Liberty SW License Agreement V2, (the "License");
+You may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+        http://www.st.com/software_license_agreement_liberty_v2
+
+Unless required by applicable law or agreed to in writing, software 
+distributed under the License is distributed on an "AS IS" BASIS, 
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+***** Software is Written from myself *******************************
+
+Copyright 2018 Hare <Hare@HARE-PC>
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+MA 02110-1301, USA.
